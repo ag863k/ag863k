@@ -39,8 +39,6 @@ const abhishekGarg = {
 
 <div align="center">
   
-### Streak Statistics
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ag863k&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 ### GitHub Statistics
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ag863k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
