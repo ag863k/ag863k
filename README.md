@@ -10,6 +10,12 @@
 
 ---
 
+<div align="center">
+  <a href="https://www.credly.com/badges/41987ad0-e738-4138-a101-c4d9d37885a9/public_url" target="_blank">
+    <img src="credly-batch.png" alt="Credly Badge" width="250"/>
+  </a>
+</div>
+
 ## About Me
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
