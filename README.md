@@ -2,7 +2,7 @@
   
 # Abhishek Garg
 
-### Full Stack Dev | Passionate Technologist | Product-Minded Engineer
+### Full Stack Dev | Passionate Technologist | Scalable Solutions Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Docker;Building+scalable+solutions" alt="Typing SVG" />
 
@@ -12,9 +12,17 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/41987ad0-e738-4138-a101-c4d9d37885a9/public_url" target="_blank">
-    <img src="credly-batch.png" alt="Credly Badge" width="250"/>
+    <img src="credly-batch.png" alt="Credly Badge" width="200"/>
   </a>
 </div>
+
+---
+
+###
+
+  [![An image of @abhigarg48's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhigarg48)](https://holopin.io/@abhigarg48)
+  
+###
 
 ## About Me
 
@@ -107,8 +115,8 @@ const abhishekGarg = {
 
 ### Primary Projects
 
-<a href="https://github.com/ag863k/VecNote">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=VecNote&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ag863k/Blankate">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=Blankate&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/ag863k/Flowmatic-pm">
