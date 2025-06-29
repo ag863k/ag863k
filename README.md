@@ -49,7 +49,8 @@
 
 ## About Me
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- Right-aligned developer-themed GIF -->
+<img align="right" alt="Developer-themed GIF" src="https://raw.githubusercontent.com/ag863k/ag863k/main/functionrepeat.gif" width="250" height="348" />
 
 ```javascript
 const abhishekGarg = {
