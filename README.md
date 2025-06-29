@@ -1,28 +1,51 @@
-<div align="center">
+<!-- Top Section: Socials Left -->
+<table width="100%">
+  <tr>
+    <td align="left">
   
+[![LinkedIn](https://img.shields.io/badge/In-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhigarg48)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_abhi117)
+
+  </td>
+</tr>
+</table>
+
+---
+
+<!-- Main Name & Typing Left | Badge Right -->
+<table width="100%">
+  <tr>
+    <!-- Left: Name + Typing SVG -->
+    <td align="left" width="60%">
+      
 # Abhishek Garg
 
-### Full Stack Dev | Passionate Technologist | Scalable Solutions Builder
+### Software Engineer | Passionate Technologist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Docker;Building+scalable+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=DSA+%7C+Algorithms;Java+%7C+Spring+Boot;React+%7C+Angular+%7C+Node.js+%7C+Docker;Frontend+Dev+%7C+Backend+Dev;Building+scalable+solutions" alt="Typing SVG" />
 
-</div>
+  </td>
+
+  <!-- Right: Credly/GitHub Foundation Badge -->
+  <td align="center" valign="middle" width="40%">
+
+<a href="https://www.credly.com/badges/41987ad0-e738-4138-a101-c4d9d37885a9/public_url" target="_blank">
+  <img src="credly-batch.png" alt="Credly Badge" width="250"/>
+</a>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
+<!-- Holopin Badges -->
 <div align="center">
-  <a href="https://www.credly.com/badges/41987ad0-e738-4138-a101-c4d9d37885a9/public_url" target="_blank">
-    <img src="credly-batch.png" alt="Credly Badge" width="200"/>
-  </a>
+
+[![An image of @abhigarg48's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhigarg48)](https://holopin.io/@abhigarg48)
+
 </div>
 
----
-
-###
-
-  [![An image of @abhigarg48's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhigarg48)](https://holopin.io/@abhigarg48)
-  
-###
 
 ## About Me
 
@@ -32,33 +55,20 @@
 const abhishekGarg = {
     pronouns: "He/Him",
     location: "India",
-    languages: ["Java", "Python", "JavaScript", "TypeScript", "SQL", "HTML/CSS"],
+    languages: ["Java", "Python", "JavaScript", "TypeScript", "SQL", "HTML", "CSS"],
     databases: ["PostgreSQL", "MongoDB"],
-    technologies: ["Node.js", "React.js", "Docker"],
+    technologies: ["Node.js", "React.js", "Angular", "Docker"],
     expertise: {
-        backend: ["Java Spring Boot", "Node.js", "Python Django/FastAPI"],
-        frontend: ["React.js", "TypeScript", "HTML5/CSS3"],
-        database: ["PostgreSQL", "MongoDB", "SQL Optimization"],
-        devOps: ["Docker", "Containerization", "CI/CD"],
-        tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman"]
+        backend: ["Java (Spring Boot)", "Node.js (Express)", "Python (Django, FastAPI)"],
+        frontend: ["React.js", "Angular", "TypeScript", "HTML5", "CSS3"],
+        database: ["PostgreSQL", "MongoDB", "SQL Optimization", "Schema Design"],
+        devOps: ["Docker", "Containerization", "CI/CD Pipelines"],
+        tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman", "GitHub Actions"]
     },
-    currentFocus: "Full-stack development with modern JavaScript ecosystem",
-    architecture: ["MVC", "RESTful APIs", "Microservices"]
+    currentFocus: "Full-stack development with Java, Spring Boot, React, and Angular",
+    architecture: ["MVC", "RESTful APIs", "Microservices", "Clean Architecture"]
 };
 ```
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhigarg48)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_abhi117)
-
-
-</div>
-
-
----
 
 ## GitHub Analytics
 
