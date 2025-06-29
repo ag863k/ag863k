@@ -47,6 +47,17 @@ const abhishekGarg = {
 };
 ```
 
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhigarg48)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_abhi117)
+
+
+</div>
+
+
 ---
 
 ## GitHub Analytics
@@ -116,20 +127,21 @@ const abhishekGarg = {
 ### Primary Projects
 
 <a href="https://github.com/ag863k/Blankate">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=Blankate&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=Blankate&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/ag863k/Flowmatic-pm">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=Flowmatic-pm&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=Flowmatic-pm&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/ag863k/Url-Shortner">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=Url-Shortner&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=Url-Shortner&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </a>
 
 <a href="https://github.com/ag863k/DataLoom">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=DataLoom&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ag863k&repo=DataLoom&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </a>
+
 
 ### Additional Projects
 
@@ -158,7 +170,7 @@ const abhishekGarg = {
 <td width="50%">
 
 **JavaScript/TypeScript**
-- React.js frontend applications
+- React.js/Angular frontend applications
 - Node.js backend services
 - Full-stack web development
 - Type-safe application development
@@ -196,7 +208,7 @@ const abhishekGarg = {
 
 **Technical Expertise:**
 - **Backend**: Java Spring Boot, Node.js Express, Python FastAPI/Django
-- **Frontend**: React.js with TypeScript, responsive web design
+- **Frontend**: React.js with TypeScript, Angular, responsive web design
 - **Database**: PostgreSQL advanced queries, MongoDB aggregation pipelines
 - **DevOps**: Docker containerization, CI/CD pipeline implementation
 - **Architecture**: RESTful API design, microservices patterns, database modeling
@@ -237,17 +249,6 @@ MongoDB             ███████████████████  9
 SQL Optimization    ████████████████     85%
 Database Design     ████████████████████ 95%
 ```
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhigarg48)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_abhi117)
 
 </div>
 
