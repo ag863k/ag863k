@@ -57,7 +57,7 @@
 ## About Me
 
 <!-- Right-aligned developer-themed GIF -->
-<img align="right" alt="Developer-themed GIF" src="https://raw.githubusercontent.com/ag863k/ag863k/main/functionrepeat.gif" width="230" height="310" />
+<img align="right" alt="Developer-themed GIF" src="https://raw.githubusercontent.com/ag863k/ag863k/main/functionrepeat.gif" width="280" height="500" />
 
 ```javascript
 const abhishekGarg = {
@@ -72,8 +72,8 @@ const abhishekGarg = {
         database: ["PostgreSQL", "MongoDB", "SQL Optimization", "Schema Design"],
         devOps: ["Docker", "Containerization", "CI/CD Pipelines"],
         tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman", "GitHub Actions"],
-        testing: ["JUnit", "Mockito", "Jest", "Cypress", "Selenium", "TestRail"],
-        productivity: ["Jira", "Notion", "Trello", "Slack"]
+        testing: ["JUnit", "Selenium", "TestRail"],
+        productivity: ["Jira", "Notion"]
     },
     architecture: ["MVC", "RESTful APIs", "Microservices", "Clean Architecture"]
 };
