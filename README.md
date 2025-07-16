@@ -248,26 +248,50 @@ const abhishekGarg = {
 
 ### Backend Development
 ```
-Java Spring Boot    ████████████████████ 95%
-Node.js/Express     ███████████████████  90%
-Python              ███████████████████  90%
+Java (Spring Boot)  ████████████████████ 95%
+Node.js (Express)   ███████████████████  90%
+Python Backend      ███████████████████  90%
 RESTful APIs        ████████████████████ 95%
+Microservices       ██████████████████   90%
 ```
 
 ### Frontend Development
 ```
 React.js            ████████████████████ 95%
-TypeScript          ███████████████████  90%
-HTML/CSS            ████████████████████ 95%
-Responsive Design   ███████████████████  90%
+Angular             ██████████████████   90%
+TypeScript          ██████████████████   90%
+HTML5/CSS3          ████████████████████ 95%
+Responsive Design   ██████████████████   90%
 ```
 
 ### Database Management
 ```
 PostgreSQL          ████████████████████ 95%
-MongoDB             ███████████████████  90%
-SQL Optimization    ████████████████     85%
-Database Design     ████████████████████ 95%
+MongoDB             ██████████████████   90%
+SQL Optimization    █████████████████    85%
+Schema Design       ███████████████████  90%
+```
+
+### DevOps & Tools
+```
+Docker              ██████████████████   90%
+CI/CD Pipelines     █████████████████    85%
+Git/GitHub          ████████████████████ 95%
+Postman             ██████████████████   90%
+GitHub Actions      █████████████████    85%
+```
+
+### Testing & QA
+```
+JUnit               █████████████████    85%
+Selenium            ████████████████     80%
+TestRail            ███████████████      75%
+```
+
+### Productivity & PM Tools
+```
+Jira                █████████████████    85%
+Notion              ██████████████████   90%
 ```
 
 </div>
@@ -279,11 +303,12 @@ Database Design     ████████████████████
 
 <!--START_SECTION:waka-->
 ```text
-Java         8 hrs 45 mins   ████████████░░░░░░░░░░░░░   35.23%
-JavaScript   7 hrs 30 mins   ███████████░░░░░░░░░░░░░░   30.12%
-TypeScript   4 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   17.08%
-Python       2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.05%
-SQL          1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   06.52%
+Java             10 hrs 15 mins   ███████████████████░░░░░   ~30%
+JavaScript       9 hrs 0 mins     ██████████████████░░░░░░   ~27%
+TypeScript       6 hrs 30 mins    ██████████████░░░░░░░░░░   ~20%
+Python           4 hrs 0 mins     ███████████░░░░░░░░░░░░░   ~12%
+Go               3 hrs 0 mins     ██████████░░░░░░░░░░░░░░   ~08%
+HTML/CSS         2 hrs 30 mins    █████████░░░░░░░░░░░░░░░   ~07%
 ```
 <!--END_SECTION:waka-->
 
