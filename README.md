@@ -12,28 +12,35 @@
 
 ---
 
-<!-- Main Name & Typing Left | Badge Right -->
+<!-- Main Name & Typing Left | Badges Right -->
 <table width="100%">
   <tr>
     <!-- Left: Name + Typing SVG -->
     <td align="left" width="60%">
       
-# Abhishek Garg
-
-### Software Engineer | Passionate Technologist
+<h1>Abhishek Garg</h1>
+<h3>Software Engineer | Passionate Technologist</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=DSA+%7C+Algorithms;Java+%7C+Spring+Boot;React+%7C+Angular+%7C+Node.js+%7C+Docker;Frontend+Dev+%7C+Backend+Dev;Building+scalable+solutions" alt="Typing SVG" />
 
-  </td>
-
-  <!-- Right: Credly/GitHub Foundation Badge -->
-  <td align="center" valign="middle" width="40%">
-
-<a href="https://www.credly.com/badges/41987ad0-e738-4138-a101-c4d9d37885a9/public_url" target="_blank">
-  <img src="credly-batch.png" alt="Credly Badge" width="250"/>
-</a>
-
-  </td>
+</td>
+<!-- Right: Side-by-Side Badges -->
+    <td align="center" valign="middle" width="40%">
+      <table>
+        <tr>
+          <td align="center" style="padding: 5px;">
+            <a href="https://www.credly.com/badges/41987ad0-e738-4138-a101-c4d9d37885a9/public_url" target="_blank">
+              <img src="credly-batch.png" alt="Credly Badge" width="160"/>
+            </a>
+          </td>
+          <td align="center" style="padding: 5px;">
+            <a href="https://github.com/ag863k/ag863k/blob/main/oracle-certify.png" target="_blank">
+              <img src="https://github.com/ag863k/ag863k/raw/main/oracle-certify.png" alt="Oracle Badge" width="160"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
