@@ -57,7 +57,7 @@
 ## About Me
 
 <!-- Right-aligned developer-themed GIF -->
-<img align="right" alt="Developer-themed GIF" src="https://raw.githubusercontent.com/ag863k/ag863k/main/functionrepeat.gif" width="280" height="500" />
+<img align="right" alt="Developer-themed GIF" src="https://raw.githubusercontent.com/ag863k/ag863k/main/functionrepeat.gif" width="250" height="800" />
 
 ```javascript
 const abhishekGarg = {
