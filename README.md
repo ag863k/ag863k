@@ -21,7 +21,7 @@
 <h1>Abhishek Garg</h1>
 <h3>Software Engineer | Passionate Technologist</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=DSA+%7C+Algorithms;Java+%7C+Spring+Boot;React+%7C+Angular+%7C+Node.js+%7C+Docker;Frontend+Dev+%7C+Backend+Dev;Building+scalable+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=DSA+%7C+Algorithms;Java+%7C+Spring+Boot;React+%7C+Angular+%7C+Node.js;Frontend+Dev+%7C+Backend+Dev;Building+scalable+solutions+%7C+Docker+%7C+Cloud;Testing+Tools+%7C+JUnit+%7C+Postman+%7C+Selenium" alt="Typing SVG" />
 
 </td>
 <!-- Right: Side-by-Side Badges -->
@@ -35,7 +35,7 @@
           </td>
           <td align="center" style="padding: 5px;">
             <a href="https://github.com/ag863k/ag863k/blob/main/oracle-certify.png" target="_blank">
-              <img src="https://github.com/ag863k/ag863k/raw/main/oracle-certify.png" alt="Oracle Badge" width="160"/>
+              <img src="https://github.com/ag863k/ag863k/raw/main/oracle-cert-scaled.png" alt="Oracle Badge" width="160"/>
             </a>
           </td>
         </tr>
