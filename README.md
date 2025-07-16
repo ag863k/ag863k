@@ -64,9 +64,10 @@ const abhishekGarg = {
         frontend: ["React.js", "Angular", "TypeScript", "HTML5", "CSS3"],
         database: ["PostgreSQL", "MongoDB", "SQL Optimization", "Schema Design"],
         devOps: ["Docker", "Containerization", "CI/CD Pipelines"],
-        tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman", "GitHub Actions"]
+        tools: ["Git", "VS Code", "IntelliJ IDEA", "Postman", "GitHub Actions"],
+        testing: ["JUnit", "Mockito", "Jest", "Cypress", "Selenium", "TestRail"],
+        productivity: ["Jira", "Notion", "Trello", "Slack"]
     },
-    currentFocus: "Full-stack development with Java, Spring Boot, React, and Angular",
     architecture: ["MVC", "RESTful APIs", "Microservices", "Clean Architecture"]
 };
 ```
