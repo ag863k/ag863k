@@ -1,17 +1,3 @@
-<!-- Top Section: Socials Left -->
-<table width="100%">
-  <tr>
-    <td align="left">
-  
-[![LinkedIn](https://img.shields.io/badge/In-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhigarg48)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_abhi117)
-
-  </td>
-</tr>
-</table>
-
----
-
 <!-- Main Name & Typing Left | Badges Right -->
 <table width="100%">
   <tr>
@@ -21,7 +7,7 @@
 <h1>Abhishek Garg</h1>
 <h3>Coder | Passionate Technologist</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=Build+Scalable+Solutions;Efficient+Coding;Continuous+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=600&lines=Build+Scalable+Solutions;Efficient+Coding;Continuous+Learning" alt="Typing SVG" />
 
 </td>
 <!-- Right: Side-by-Side Badges -->
@@ -54,23 +40,6 @@
 </div>
 
 ---
-
-
-## Development Metrics
-
-<!--START_SECTION:waka-->
-```text
-Java             10 hrs 15 mins   ███████████████████░░░░░   ~30%
-JavaScript       9 hrs 0 mins     ██████████████████░░░░░░   ~27%
-TypeScript       6 hrs 30 mins    ██████████████░░░░░░░░░░   ~20%
-Python           4 hrs 0 mins     ███████████░░░░░░░░░░░░░   ~12%
-Go               3 hrs 0 mins     ██████████░░░░░░░░░░░░░░   ~08%
-HTML/CSS         2 hrs 30 mins    █████████░░░░░░░░░░░░░░░   ~07%
-```
-<!--END_SECTION:waka-->
-
----
-
 
 <div align="center">
 
